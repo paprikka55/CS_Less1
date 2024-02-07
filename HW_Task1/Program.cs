@@ -19,7 +19,7 @@ try
 }
 catch
 {
-  Console.WriteLine("Вы ввели не целое число!");
+  Console.WriteLine("Введите целое число!");
 }
 finally
 {
