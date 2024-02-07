@@ -12,3 +12,4 @@ C:\admin\Work\GB\Int_to_prog\Less1\Task1\obj\Debug\net8.0\refint\Task1.dll
 C:\admin\Work\GB\Int_to_prog\Less1\Task1\obj\Debug\net8.0\Task1.pdb
 C:\admin\Work\GB\Int_to_prog\Less1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\admin\Work\GB\Int_to_prog\Less1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\admin\Work\GB\Int_to_prog\Less1\task1\obj\Debug\net8.0\Task1.sourcelink.json
