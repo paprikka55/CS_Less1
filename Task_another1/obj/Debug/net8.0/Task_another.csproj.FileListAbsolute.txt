@@ -1,0 +1,15 @@
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\Task_another.GeneratedMSBuildEditorConfig.editorconfig
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\Task_another.AssemblyInfoInputs.cache
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\Task_another.AssemblyInfo.cs
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\Task_another.csproj.CoreCompileInputs.cache
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\Task_another.sourcelink.json
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\bin\Debug\net8.0\Task_another.exe
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\bin\Debug\net8.0\Task_another.deps.json
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\bin\Debug\net8.0\Task_another.runtimeconfig.json
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\bin\Debug\net8.0\Task_another.dll
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\bin\Debug\net8.0\Task_another.pdb
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\Task_another.dll
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\refint\Task_another.dll
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\Task_another.pdb
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\Task_another.genruntimeconfig.cache
+C:\admin\Work\GB\Int_to_prog\Less1\Task_another\obj\Debug\net8.0\ref\Task_another.dll
