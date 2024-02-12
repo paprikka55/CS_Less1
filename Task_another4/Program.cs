@@ -8,14 +8,14 @@ public class Answer
     int index = 1;
     int rem = 0;
     while (index <= number)
+    {
+      rem = index % 2;
+      if (rem == 0)
       {
-        rem = index % 2;
-        if (rem == 0)
-          {
-            Console.Write(index + " ");
-          }
-        index++;
+        Console.Write(index + " ");
       }
+      index++;
+    }
   }
 
 
