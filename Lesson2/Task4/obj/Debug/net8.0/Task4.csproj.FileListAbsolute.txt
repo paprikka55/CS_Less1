@@ -1,0 +1,15 @@
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\Task4.sourcelink.json
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\bin\Debug\net8.0\Task4.exe
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\bin\Debug\net8.0\Task4.deps.json
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\bin\Debug\net8.0\Task4.dll
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\bin\Debug\net8.0\Task4.pdb
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\Task4.dll
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\refint\Task4.dll
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\Task4.pdb
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+C:\admin\Work\GB\Int_to_prog\Theory\Lesson2\Task4\obj\Debug\net8.0\ref\Task4.dll
