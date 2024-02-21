@@ -12,7 +12,7 @@ public class Answer
       rem = index % 2;
       if (rem == 0)
       {
-        Console.Write(index + " ");
+        Console.Write($"{index} ");
       }
       index++;
     }

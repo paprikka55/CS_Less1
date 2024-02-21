@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\admin\\Work\\GB\\Int_to_prog\\Less1\\Task_another4\\Task_another4.csproj",
+      "projectUniqueName": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\Task_another4\\Task_another4.csproj",
       "projectName": "Task_another4",
-      "projectPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Less1\\Task_another4\\Task_another4.csproj",
+      "projectPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\Task_another4\\Task_another4.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Less1\\Task_another4\\obj\\",
+      "outputPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\Task_another4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

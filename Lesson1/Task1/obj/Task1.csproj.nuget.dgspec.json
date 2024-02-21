@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Task1\\Task1.csproj": {}
+    "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Task1\\Task1.csproj": {
+    "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Task1\\Task1.csproj",
+        "projectPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Task1\\obj\\",
+        "outputPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

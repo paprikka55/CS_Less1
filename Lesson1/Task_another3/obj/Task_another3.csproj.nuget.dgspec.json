@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\admin\\Work\\GB\\Int_to_prog\\Less1\\Task_another3\\Task_another3.csproj": {}
+    "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\Task_another3\\Task_another3.csproj": {}
   },
   "projects": {
-    "C:\\admin\\Work\\GB\\Int_to_prog\\Less1\\Task_another3\\Task_another3.csproj": {
+    "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\Task_another3\\Task_another3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\admin\\Work\\GB\\Int_to_prog\\Less1\\Task_another3\\Task_another3.csproj",
+        "projectUniqueName": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\Task_another3\\Task_another3.csproj",
         "projectName": "Task_another3",
-        "projectPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Less1\\Task_another3\\Task_another3.csproj",
+        "projectPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\Task_another3\\Task_another3.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Less1\\Task_another3\\obj\\",
+        "outputPath": "C:\\admin\\Work\\GB\\Int_to_prog\\Theory\\Lesson1\\Task_another3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

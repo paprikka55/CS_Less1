@@ -4,8 +4,7 @@ class Answer {
     static void CheckIfEven(int number)
     {
       // Введите свое решение ниже
-      int rem = number % 2;
-      if ( rem == 0)
+      if ( number % 2 == 0)
         { Console.WriteLine("четное"); }
       else
         { Console.WriteLine("нечетное"); }
@@ -20,7 +19,7 @@ class Answer {
             number = int.Parse(args[0]);
         } else {
            // Здесь вы можете поменять значения для отправки кода на Выполнение
-            number = 5;
+            number = 6;
         }
 
         // Не удаляйте строки ниже
