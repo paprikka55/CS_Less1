@@ -2,7 +2,8 @@
 {
   for (int i = 0; i < arr.Length; i++)
   { 
-    arr[i] = new Random().Next(1, 100); 
+    Random rnd = new Random();
+    arr[i] = rnd.Next(1, 100); 
     // arr[i] = i + 1;
   }
 }
